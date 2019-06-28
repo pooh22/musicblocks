@@ -304,14 +304,14 @@ msgstr "onwaar"
 #. TRANS: double sharp is a music term related to pitch
 #: js/block.js:3423 js/musicutils.js:332 js/musicutils.js:335
 msgid "double sharp"
-msgstr ""
+msgstr "dubbelkruis"
 
 #. TRANS: sharp is a half-step up in pitch
 #. TRANS: sharp is a music term related to pitch
 #: js/block.js:3423 js/logo.js:6764 js/basicblocks.js:565
 #: js/pitchtimematrix.js:1904 js/musicutils.js:330 js/musicutils.js:335
 msgid "sharp"
-msgstr ""
+msgstr "kruis"
 
 #. TRANS: natural is a music term related to pitch
 #: js/block.js:3423 js/musicutils.js:328 js/musicutils.js:335
@@ -323,12 +323,12 @@ msgstr ""
 #: js/block.js:3423 js/logo.js:6767 js/basicblocks.js:553
 #: js/pitchtimematrix.js:1932 js/musicutils.js:326 js/musicutils.js:335
 msgid "flat"
-msgstr ""
+msgstr "mol"
 
 #. TRANS: double flat is a music term related to pitch
 #: js/block.js:3423 js/musicutils.js:324 js/musicutils.js:335
 msgid "double flat"
-msgstr ""
+msgstr "dubbelmol"
 
 #. TRANS: unison means the note is the same as the current note
 #. TRANS: unison means the note is the same as the current note
@@ -376,7 +376,7 @@ msgstr "Plak"
 
 #: js/block.js:5715
 msgid "Extract"
-msgstr ""
+msgstr "Uitpakken"
 
 #: js/block.js:5716
 msgid "Move to trash"
@@ -550,85 +550,85 @@ msgstr "Het gekozen bestand bevat geen geldige heap"
 
 #: js/logo.js:3350 plugins/heap.rtp:102
 msgid "The loadHeap block needs a loadFile block."
-msgstr ""
+msgstr "Het loadHeap blok heeft een loadFile blok nodig"
 
 #: js/logo.js:3371
 msgid "Error parsing JSON data:"
-msgstr ""
+msgstr "Fout bij interpreteren JSON data:"
 
 #: js/logo.js:3376
 msgid "404: Page not found"
-msgstr ""
+msgstr "404: Pagina niet gevonden"
 
 #: js/logo.js:3405
 msgid "Cannot find a valid heap for"
-msgstr ""
+msgstr "Kan geen geldige heap vinden voor"
 
 #: js/logo.js:3425 js/logo.js:11375
 msgid "Index must be > 0."
-msgstr ""
+msgstr "Index moet > 0 zijn"
 
 #: js/logo.js:3430 js/logo.js:11380
 msgid "Maximum heap size is 1000."
-msgstr ""
+msgstr "Maximale heap grootte is 1000."
 
 #: js/logo.js:3453 js/logo.js:3484 js/logo.js:3515 js/timbre.js:620
 msgid "Unable to use synth due to existing oscillator"
-msgstr ""
+msgstr "Kan synth niet gebruiken vanwege bestaande oscilator"
 
 #: js/logo.js:3465 js/logo.js:3496
 msgid "The input cannot be negative."
-msgstr ""
+msgstr "De invoer mag niet negatief zijn."
 
 #: js/logo.js:3615
 msgid "Adding missing pitch number 0."
-msgstr ""
+msgstr "Ik voeg missende octaafnaam nr 0 toe."
 
 #: js/logo.js:3625
 msgid "Ignoring pitch numbers less than zero or greater than eleven."
-msgstr ""
+msgstr "octaafnamen onder 0 en boven 11 worden genegeerd."
 
 #: js/logo.js:3630
 msgid "Ignoring duplicate pitch numbers."
-msgstr ""
+msgstr "Dubbele octaafnamen worden genegeerd."
 
 #: js/logo.js:3788
 msgid "You must have at least one pitch block and one drum block in the matrix."
-msgstr ""
+msgstr "Je moet tenminste een octaafnaam blok en een drum blok in de matrix hebben."
 
 #: js/logo.js:3937 js/logo.js:3959 js/logo.js:3987 js/logo.js:4010
 #: js/logo.js:4033
 msgid "Beats per minute must be > 30."
-msgstr ""
+msgstr "Slagen per minuut moet > 30 zijn."
 
 #: js/logo.js:3940 js/logo.js:3962 js/logo.js:3990 js/logo.js:4013
 #: js/logo.js:4036
 msgid "Maximum beats per minute is 1000."
-msgstr ""
+msgstr "Slagen per minuut mag niet hoger dan 1000 zijn."
 
 #: js/logo.js:4108
 msgid "You must have at least one pitch block and one rhythm block in the matrix."
-msgstr ""
+msgstr "Je moet tenminste een octaafnaam blok en een ritme blok in de matrix hebben."
 
 #: js/logo.js:4146
 msgid "Attack value should be from 0 to 100."
-msgstr ""
+msgstr "Attack waarde moet tussen 0 en 100 liggen."
 
 #: js/logo.js:4149
 msgid "Decay value should be from 0 to 100."
-msgstr ""
+msgstr "Decay waarde moet tussen 0 en 100 liggen."
 
 #: js/logo.js:4152
 msgid "Sustain value should be from 0 to 100."
-msgstr ""
+msgstr "Sustain waarde moet tussen 0 en 100 liggen."
 
 #: js/logo.js:4155
 msgid "Release value should be from 0-100."
-msgstr ""
+msgstr "Release waarde moet tussen 0 en 100 liggen."
 
 #: js/logo.js:4171
 msgid "You are adding multiple envelope blocks."
-msgstr ""
+msgstr "Je probeert meerdere envelop-blokken op te tellen."
 
 #. TRANS: rolloff is the steepness of a change in frequency.
 #: js/logo.js:4200
@@ -644,77 +644,77 @@ msgstr ""
 #: js/logo.js:4284 js/basicblocks.js:323 js/basicblocks.js:330
 #: js/musicutils.js:255 js/musicutils.js:339
 msgid "even"
-msgstr ""
+msgstr "even"
 
 #. TRANS: odd numbers
 #: js/logo.js:4286 js/basicblocks.js:323 js/musicutils.js:257
 #: js/musicutils.js:339
 msgid "odd"
-msgstr ""
+msgstr "oneven"
 
 #: js/logo.js:4288 js/basicblocks.js:323 js/musicutils.js:258
 #: js/musicutils.js:339
 msgid "scalar"
-msgstr ""
+msgstr "scalar"
 
 #: js/logo.js:4355
 msgid "The Case Block must be used inside of a Switch Block."
-msgstr ""
+msgstr "Het Case blok moet binnen een Switch blok gebruikt worden."
 
 #: js/logo.js:4425
 msgid "The Scalar Step Block must be used inside of a Note Block."
-msgstr ""
+msgstr "Het Scalar Step blok moet binnen een Noot blok gebruikt worden."
 
 #: js/logo.js:4444
 msgid "The Scalar Step Block must be preceded by a Pitch Block."
-msgstr ""
+msgstr "Het Scalar Step blok moet worden voorafgegaan door een Octaafnaam blok."
 
 #: js/logo.js:4555
 msgid "Noise Block: Did you mean to use a Note block?"
-msgstr ""
+msgstr "Ruis blok: Bedoelde je een Toon blok te gebruiken?"
 
 #: js/logo.js:4635
 msgid "Drum Block: Did you mean to use a Note block?"
-msgstr ""
+msgstr "Drum blok: Bedoelde je een Toon blok te gebruiken?"
 
 #: js/logo.js:4700
 msgid "Scalar transpositions are equal to Semitone transpositions for custom temperament."
-msgstr ""
+msgstr "Scalaire transposities zijn identiek aan Halftoon transposities voor bewerkt temperament."
 
 #: js/logo.js:5107
 msgid "Pitch Block: Did you mean to use a Note block?"
-msgstr ""
+msgstr "Octaafnaam blok: Bedoelde je een Toon blok te gebruiken?"
 
 #: js/logo.js:5147
 msgid "polyphonic rhythm"
-msgstr ""
+msgstr "Polyfonisch ritme"
 
 #. TRANS: Note value is the note duration.
 #: js/logo.js:5485
 msgid "Note value must be greater than 0."
-msgstr ""
+msgstr "Toon waarde moet groter dan 0 zijn."
 
 #: js/logo.js:5561
 msgid "An argument of -1 results in a note value of 0."
-msgstr ""
+msgstr "Een parameterwaarde -1 resulteert in een Toonwaarde van 0."
 
 #: js/logo.js:5809
 msgid "Vibrato intensity must be between 1 and 100."
-msgstr ""
+msgstr "Vibrato intensiteit moet een waarde tussen 1 en 100 hebben."
 
 #: js/logo.js:5814
 msgid "Vibrato rate must be greater than 0."
-msgstr ""
+msgstr "Vibrato snelheid moet groter dan 0 zijn."
 
 #: js/logo.js:5846
 msgid "Distortion must be from 0 to 100."
-msgstr ""
+msgstr "Distortion moet een waarde tussen 0 en 100 hebben."
 
 #. TRANS: Depth is the intesity of the tremolo effect.
 #. TRANS: Depth is the intesity of the chorus effect.
 #: js/logo.js:5876 js/logo.js:5944
 msgid "Depth is out of range."
-msgstr ""
+msgstr "Depth is buiten de geldige waarden."
 
 #. TRANS: partials components in a harmonic series
 #: js/logo.js:5980
