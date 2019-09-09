@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2019-08-22 21:41+0200\n"
+"PO-Revision-Date: 2019-08-26 09:44+0200\n"
 "Last-Translator: Simon Oosthoek <s.oosthoek@xs4all.nl>\n"
 "Language-Team: English <kde-i18n-doc@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -257,7 +257,7 @@ msgstr "kruis"
 #. TRANS: natural is a music term related to pitch
 #: js/block.js:3423 js/musicutils.js:328 js/musicutils.js:335
 msgid "natural"
-msgstr ""
+msgstr "natural"
 
 #. TRANS: flat is a half-step down in pitch
 #. TRANS: flat is a music term related to pitch
@@ -276,7 +276,7 @@ msgstr "dubbelmol"
 #. TRANS: unison is a music term related to intervals
 #: js/block.js:4975 js/basicblocks.js:515 js/basicblocks.js:2629 js/musicutils.js:152
 msgid "unison"
-msgstr ""
+msgstr "unison"
 
 #. TRANS: major is a music term related to intervals and mode
 #: js/block.js:5102 js/block.js:5188 js/basicblocks.js:2427 js/basicblocks.js:2438 js/basicblocks.js:2449
@@ -287,7 +287,7 @@ msgstr "majeur"
 #. TRANS: modal scale for music
 #: js/block.js:5102 js/block.js:5188 js/musicutils.js:178
 msgid "ionian"
-msgstr ""
+msgstr "ionian"
 
 #. TRANS: minor is a music term related to intervals and mode
 #: js/block.js:5104 js/block.js:5192 js/basicblocks.js:2361 js/basicblocks.js:2372 js/basicblocks.js:2383
@@ -298,7 +298,7 @@ msgstr "mineur"
 #. TRANS: modal scale for music
 #: js/block.js:5104 js/block.js:5192 js/musicutils.js:188
 msgid "aeolian"
-msgstr ""
+msgstr "aeolian"
 
 #: js/block.js:5508
 msgid "Not a number"
@@ -1301,23 +1301,23 @@ msgstr "Het nootwaarde blok bepaalt de lengte van te noot die wordt gespeeld."
 
 #: js/turtledefs.js:282
 msgid "The beat of the music is determined by the Meter block (by default, 4 1/4 notes per measure)."
-msgstr "Het tempo van de muziek wordt bepaald door het Meter blok (standaard is 4 1/4 noten per maat)."
+msgstr "Het tempo van de muziek wordt bepaald door het Meter blok (standaard is 4 kwartnoten per maat)."
 
 #: js/turtledefs.js:283
 msgid "The Master beats per minute block sets the number of 1/4 notes per minute for every voice."
-msgstr ""
+msgstr "Het Hoofd slagen-per-minuut blok zet het aantal kwartnoten per minuut voor alle stemmen."
 
 #: js/turtledefs.js:284
 msgid "The Beats per minute block sets the number of 1/4 notes per minute."
-msgstr ""
+msgstr "Het Slagen-per-minuut blok zet het aantal kwartnoten per minuut."
 
 #: js/turtledefs.js:285
 msgid "The On-every-note block let you specify actions to take on every note."
-msgstr ""
+msgstr "Met het Bij-elke-noot blok kun je acties opgeven die bij elke noot gedaan moeten worden."
 
 #: js/turtledefs.js:286 js/turtledefs.js:582
 msgid "The Beat count block is the number of the current beat,"
-msgstr ""
+msgstr "Het Slagen-teller blok geeft het nummer van de huidige slag,"
 
 #: js/turtledefs.js:286
 msgid "eg 1, 2, 3, or 4."
@@ -1333,7 +1333,7 @@ msgstr "Het Gespeelde noten blok is het aantal noten dat al gespeeld is."
 
 #: js/turtledefs.js:287
 msgid "(By default, it counts quarter notes.)"
-msgstr "(Zonder keuze worden kwart noten geteld)"
+msgstr "(Zonder keuze worden kwartnoten geteld)"
 
 #: js/turtledefs.js:289
 msgid ""
