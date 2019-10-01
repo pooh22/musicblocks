@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: nl\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. TRANS: a stack of blocks to run (an action to take)
@@ -257,7 +257,7 @@ msgstr "kruis"
 #. TRANS: natural is a music term related to pitch
 #: js/block.js:3423 js/musicutils.js:328 js/musicutils.js:335
 msgid "natural"
-msgstr "natural"
+msgstr "neutraal"
 
 #. TRANS: flat is a half-step down in pitch
 #. TRANS: flat is a music term related to pitch
@@ -1321,7 +1321,7 @@ msgstr "Het Slagen-teller blok geeft het nummer van de huidige slag,"
 
 #: js/turtledefs.js:286
 msgid "eg 1, 2, 3, or 4."
-msgstr "bijvoorbeeld 1, 2, 3 of 4."
+msgstr "Bijv. 1, 2, 3 of 4."
 
 #: js/turtledefs.js:286 js/turtledefs.js:582
 msgid "In the figure, it is used to take an action on the first beat of each measure."
@@ -1333,7 +1333,7 @@ msgstr "Het Gespeelde noten blok is het aantal noten dat al gespeeld is."
 
 #: js/turtledefs.js:287
 msgid "(By default, it counts quarter notes.)"
-msgstr "(Zonder keuze worden kwartnoten geteld)"
+msgstr "(Standaard worden kwartnoten geteld.)"
 
 #: js/turtledefs.js:289
 msgid ""
